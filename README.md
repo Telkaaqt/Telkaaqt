@@ -1,4 +1,3 @@
-<img align="right" alt="Side Art" width="750" src="https://files.catbox.moe/g8b4t2.jpg" />
 
 # ✪ About Me:
 - 🧑‍💻 I'm a 16-year-old developer from **Indonesia**
